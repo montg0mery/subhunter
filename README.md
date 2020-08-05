@@ -6,7 +6,7 @@ Collection of tools to find subdomains
 * sublist3r - https://github.com/aboul3la/Sublist3r
 * subfinder - https://github.com/projectdiscovery/subfinder
 * assetfinder - https://github.com/tomnomnom/assetfinder
-* dnsbuffer - https://github.com/montg0mery/automation-scripts/blob/master/dnsbuffer.py
+* dnsbuffer - https://github.com/montg0mery/dnsbuffer
 * httprobe - https://github.com/tomnomnom/httprobe
 
 ## Note:
