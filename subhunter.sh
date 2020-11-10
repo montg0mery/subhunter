@@ -39,8 +39,8 @@ echo "[*] Live hosts saved into alive.txt"
 # to append results to my custom dns wordlist#
 ##############################################
 
-cat all.txt | tr '.' '\n' | sort -u >> /opt/custom-wordlists/montg0mery-all.txt
-sort -u -o /opt/custom-wordlists/montg0mery-all.txt /opt/custom-wordlists/montg0mery-all.txt
+cat all.txt | tr '.' '\n' | sort -u >> /opt/custom-wordlists/silvestre-all.txt
+sort -u -o /opt/custom-wordlists/silvestre-all.txt /opt/custom-wordlists/silvestre-all.txt
 
 
 cd ..
